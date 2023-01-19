@@ -15,8 +15,8 @@ add --browser= chrome or firefox
 
 
 <h1>Tests</h1>
-Login Test - Tests logging into the application
-Customer Test - Tests Logging into the application and making a deposit and a withdrawl.
+<p>Login Test - Tests logging into the application</p>
+<p>Customer Test - Tests Logging into the application and making a deposit and a withdrawl.</p>
 
 <h1>Directory</h1>
 <h3>Configurations</h3> Contains all config info such as URL, and path to test data.
